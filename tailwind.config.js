@@ -10,11 +10,11 @@ module.exports = {
         'karla': ['Karla', 'sans-serif'],
       },
       backgroundImage: {
-        'header-img': "url('/img/header.jpg')",
-        'intro-img' : "url('/img/introbg.png')",
-        'bw1-img' : "url('/img/bw-1.jpg')",
-        'index-img' : "url('/img/6.jpg')",
-        'gift-img' : "url('/img/5.jpg')"
+        'header-img': "url('/img/header.webp')",
+        'intro-img' : "url('/img/introbg.webp')",
+        'bw1-img' : "url('/img/bw-1.webp')",
+        'index-img' : "url('/img/6.webp')",
+        'gift-img' : "url('/img/5.webp')"
       },
     },
   },
