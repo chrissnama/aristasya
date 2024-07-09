@@ -890,7 +890,7 @@ video {
 }
 
 .bg-bw1-img {
-  background-image: url('/img/bw-1.jpg');
+  background-image: url('/img/bw-1.webp');
 }
 
 .bg-gradient-to-l {
@@ -902,7 +902,7 @@ video {
 }
 
 .bg-header-img {
-  background-image: url('/img/header.jpg');
+  background-image: url('/img/header.webp');
 }
 
 .from-yellow-500 {
